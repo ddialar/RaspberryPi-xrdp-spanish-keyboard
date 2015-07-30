@@ -1,4 +1,4 @@
-# Keyboard Map file to set into Spanish the XRDP server
+# Keyboard Map file to set the XRDP server into Spanish
 
 Download the **[km-040a.ini](km-040a.ini)** file into the ```/etc/xrdp/``` folder and then, replace the owner and the group of the file through the next command:
 
